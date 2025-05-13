@@ -9,7 +9,10 @@
 
 ###
 
-<h4 align="left">🎓 I'm a 3rd-year Computer Science Engineering student from **Bhutan** 🇧🇹, passionate about building software that makes a difference. With a strong foundation in programming and a growing interest in full-stack development, I enjoy turning ideas into digital products.</h4>
+
+I'm a 3rd-year Computer Science Engineering student from **Bhutan** 🇧🇹, passionate about building software that makes a difference.  
+With a strong foundation in programming and a growing interest in full-stack development, I enjoy turning ideas into digital products.
+
 
 ###
 
@@ -62,6 +65,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ugyenx/ugyenx/output/snake.svg" alt="Snake animation" />
+<img src="./assests/snake.svg" alt="Snake animation" />
 
 ###
