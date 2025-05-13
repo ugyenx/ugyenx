@@ -1,6 +1,6 @@
 ###
 <div align="center">
-  <img height="161" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDdmeGc1aGl4NXpma2tkemlscmVodm5hcHRlcnNwejdpZTQ1eG1leCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UgV8Y7bDxsZDCP01eo/giphy.gif"  />
+  <img height="161" src="./assests/Blue Eyes Loop GIF by Xbox.gif"  />
 </div>
 
 ###
@@ -15,13 +15,18 @@
 
 <img align="right" height="203" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGYxamV1OGN1d2hmenRtZTR2OTdpbDF5N2UxeHJxbjAwejB5c2NnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nEFaVNgFGGRQdWbmRq/giphy.gif"  />
 
-###
 
-<h2 align="left">🧠 About Me</h2>
 
-###
+### 🌟 About Me
 
-<h4 align="left">- 🌍 From the peaceful kingdom of **Bhutan**, driven by curiosity and creativity.<br>- 💻 Currently diving deep into **web development**, working with technologies like React, Node.js, and MongoDB.<br>- 🌱 Always learning — exploring topics like **cloud computing**, **system design**, and **open-source development**.<br>- ⚙️ Comfortable with both frontend and backend development. Love clean code and intuitive UI/UX.<br>- 🧩 Enjoy solving problems through code, whether it's a fun project, a hackathon challenge, or a personal tool.<br>- 💬 Love discussing tech, startups, and how software can solve real-world problems.<br>- ⚽When I'm not coding, you'll probably find me on the football field. I love playing and watching football — it's my way of staying active andrefreshed!</h4>
+- 🌍 From the peaceful kingdom of **Bhutan**, driven by curiosity and creativity.  
+- 💻 Currently diving deep into **web development**, working with technologies like React, Node.js, and MongoDB.  
+- 🌱 Always learning — exploring topics like **cloud computing**, **system design**, and **open-source development**.  
+- ⚙️ Comfortable with both frontend and backend development. I love clean code and intuitive UI/UX.  
+- 🧩 Enjoy solving problems through code, whether it's a fun project, a hackathon challenge, or a personal tool.  
+- 💬 Love discussing tech, startups, and how software can solve real-world problems.  
+- ⚽ When I'm not coding, you'll probably find me on the football field. I love playing and watching football — it's my way of staying active and refreshed!
+
 
 ###
 
